@@ -32,7 +32,7 @@ Below are three key visualizations from the analysis:
 1. Market Insights & Language Trends 
 
     * Shows foreign revenue trends and the dominance of English-language films.
-    ![Language_trends]("C:\Users\pc\Downloads\Screenshot 2025-03-28 210045.png")
+   [ ![Language_trends](https://github.com/MegAtaro/Phase_2_Project_G5/blob/27f5be1b8d43133cb37a9835c1319a786855bfa5/Screenshot%202025-03-28%20210045.png)
 
 2. Genre Trends & Performance
 
