@@ -1,3 +1,4 @@
+## README: Movie Market Analysis
 # Project Overview
 In today's entertainment landscape, major companies are investing heavily in original content. To stay competitive, our company is launching a new movie studio but lacks expertise in film production. Overview. This project provides a detailed analysis of trends in the movie industry, focusing on language impact, profitability, and audience engagement. Insights are derived from data visualizations and statistical evaluations.
 
@@ -6,9 +7,9 @@ In today's entertainment landscape, major companies are investing heavily in ori
 **Stakeholder** 
 This analysis is conducted for:
 
-* our newly established movie studio looking to optimize its movie production strategy for maximum box office success.
+* Our newly established movie studio looking to optimize its movie production strategy for maximum box office success.
 * investors seeking to understand the movie industry's current trends and potential for growth.
-* film enthusiasts interested in the impact of language on movie success.
+* Film enthusiasts interested in the impact of language on movie success.
 
 ### Key Business Questions
 
