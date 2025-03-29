@@ -37,12 +37,12 @@ Below are three key visualizations from the analysis:
 2. Genre Trends & Performance
 
     * Highlights popular movies, vote counts, and rating trends.
-     ![Genre_trends]("C:\Users\pc\Downloads\Screenshot 2025-03-28 210021.png")
+     ![Genre_trends](https://github.com/MegAtaro/Phase_2_Project_G5/blob/de2c08c1b4222f4a8d164975e5a8530843dad130/Screenshot%202025-03-28%20210021.png)
 
 3. Movie Profitability Analysis 
 
     * Analyzes correlations between budget and global revenue.
-    ![Profitability]("C:\Users\pc\Downloads\Screenshot 2025-03-28 210001.png")
+    ![Profitability](https://github.com/MegAtaro/Phase_2_Project_G5/blob/de2c08c1b4222f4a8d164975e5a8530843dad130/Screenshot%202025-03-28%20210001.png))
 
 ### Conclusion
 
