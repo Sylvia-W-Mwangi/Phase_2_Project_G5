@@ -61,10 +61,10 @@ Below are three key visualizations from the analysis:
 
 3. Leverage audience interaction data to assist in marketing and distribution strategies for better engagement.
 
-This study provides valuable insights into the movie industry, shedding light on factors influencing revenue, audience preferences, and profitability. There making decision making easier for producers and distributors.
+This study provides valuable insights into the movie industry, shedding light on factors influencing revenue, audience preferences, and profitability.
 
 ## Authors
 - Sylvia Mwangi
-- Teresia Kriuki
+- Teresia Kariuki
 - Meggy Donna
 - Guled Adam
