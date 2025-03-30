@@ -22,7 +22,7 @@ This analysis is conducted for:
 
 ### Data Understanding and Analysis
 **Source of Data**
-The analysis is based on datasets from sources includes information on movie revenues, ratings, and audience preferences from multiple sources.
+The analysis is based on datasets from sources that have information on movie revenues, ratings, and audience preferences from multiple sources.
 
 **Description of Data**
 The dataset covers various attributes, including movie titles, languages, earnings (domestic and international), popularity metrics, vote counts, and budget information.
@@ -64,7 +64,7 @@ Below are three key visualizations from the analysis:
 This study provides valuable insights into the movie industry, shedding light on factors influencing revenue, audience preferences, and profitability.
 
 ## Authors
-- Sylvia Mwangi
-- Teresia Kariuki
-- Meggy Donna
-- Guled Adam
+- [Sylvia Mwangi](https://github.com/Sylvia-W-Mwangi)
+- [Teresia Kariuki](https://github.com/tkariuki227)
+- [Meggy Donna](https://github.com/MegAtaro)
+- [Guled Adam](https://github.com/Ledgu)
